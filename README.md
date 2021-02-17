@@ -1,5 +1,6 @@
 
-![github_me](https://user-images.githubusercontent.com/50279534/108158151-177e0300-70c3-11eb-8a21-229bfc75f799.png)
+![github_header](https://user-images.githubusercontent.com/50279534/108275453-20b7b000-7155-11eb-835e-ebf1e03ea1a2.png)
+
 
 📌I’m a developer from Argentina who is interested in web technologies, specially in frontend development.
 
