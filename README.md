@@ -5,8 +5,7 @@
 📌I’m a developer from Argentina who is interested in web technologies, specially in frontend development.
 
 ## ⚡My Stack
-
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCB2D)
+![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699) ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=F7C52C) ![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)
 ## 📊 My GitHub's Stats
 
 <p align="center">
