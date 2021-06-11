@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/java-282C34?logo=java&logoColor=E34F26)
 
 ## 🧠 What I am interested in learning at some point
-![Vue.js](https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D) 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
 
 ## 📊 My GitHub's Stats
 <p align="center">
